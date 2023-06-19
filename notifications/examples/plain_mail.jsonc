@@ -1,0 +1,8 @@
+{
+	"type_notification": "WITHOUT_TEMPLATE", // Use this key to indicate we are sending a plain text or HTML
+	"to": ["example@usi.com", "recipent2@usi.com"], // Array of email addresses
+	"subject": "Hello world",
+
+	"body_plain": "Notification text", // HTML or Plain text
+	"body_html": "Notification text in HTML formal" // Leave empty for plain only
+}

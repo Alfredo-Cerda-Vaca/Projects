@@ -1,0 +1,12 @@
+{
+	"type_notification": "EMAIL_WITH_TEMPLATE", // Use this key to indicate we are using a template
+
+	"to": "example@usi.com", // Array of email addresses
+	"subject": "Hello world",
+
+	"template_name": "01-BasicTemplate", // As it's stored in the DB
+	"content": {
+		"TITLE": "Mail template",
+		"KEY": "Value"
+	}
+}
