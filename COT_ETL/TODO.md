@@ -1,0 +1,11 @@
+# TO DO
+- [X] Add function for send mail with status and steps proccess
+- [X] Validation Job run with SQL information
+- [X] Implements validation with table register GeneralScheduledHistory
+- [X] Add transaction in each insert
+- [X] show the rowsAffected
+- [X] Clone information from Oracle to SQL server filter with start_datetime and end_datetime
+- [X] Create table temp on Oracle
+- [X] Show Quantity about information from Oracle
+- [X] Obtein information Oracle
+- [X] Make connections with ORACLE to obtain information with dates from SQL server 
