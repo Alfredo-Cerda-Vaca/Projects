@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "async": "^3.2.2",
+    "fs": "0.0.1-security",
+    "fs-extra": "^10.0.0",
+    "nodemailer": "^6.7.8",
+    "path": "^0.12.7",
+    "read-excel-file": "^5.2.20",
+    "tedious": "^14.0.0"
+  }
+}
